@@ -1,2 +1,2 @@
 # GirlsWhoCode
-This is a rock, paper, scissors program for the Girls Who Code 2018 Summer Teaching Assistant application. When running the program, please make sure that ALL files included in this repository are in the same folder.
+This is a rock, paper, scissors program for the Girls Who Code 2018 Summer Teaching Assistant application. When running the program, please make sure that ALL files included in this repository are in the same folder. The program that you should run to play the game is RPSgame_RM.py. graphics.py is a graphics library, and the folder titled "icons" contains the images used in RPSgame_RM.py.
